@@ -11,9 +11,10 @@ TEHRAN_TZ = ZoneInfo("Asia/Tehran")
 CHANNELS = [
     "xgvpn",
     "appxa",
-    "slipnet_chat",
+    "RavenAzad",
     "appxa2",
-    "IRNOTPHONE",
+    "baraye_azadi_gp",
+    "amir_webstudio",
     "IRAN_V2RAY1",
     "SlipNet_decode",
     "blackRay",
