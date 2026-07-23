@@ -12,6 +12,11 @@ TEHRAN_TZ = ZoneInfo("Asia/Tehran")
 CHANNELS = [
     "xgvpn",
     "npvtunel_karing_hiddify",
+    "ConfigWireguard",
+    "theghostofjungle",
+    "Masir_Sefid",
+    "Zel2oVPN",
+    "fast_ip_npv",
     "appxa",
     "RavenAzad",
     "slipnet11",
