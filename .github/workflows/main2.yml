@@ -36,7 +36,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           
           # اضافه کردن فایل خروجی با نام خاص
-          git add '☬™.txt'
+          git add '☬SHΞN™.txt'
           
           # بررسی اینکه آیا تغییری اعمال شده است یا خیر
           if ! git diff --quiet --cached; then
